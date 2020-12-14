@@ -1,0 +1,29 @@
+#olivia {
+    padding: 100px 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+#para {
+    max-width: 349px;
+    flex-grow: 2;
+
+}
+
+#olivia-img {
+    max-width: 349px;
+
+}
+
+
+
+
+  
+  #olivia:hover {
+    transform: scale(1.1);
+  }

@@ -1,0 +1,27 @@
+.btn-pink{	
+    background-color: #ffe3db;
+	color: black;
+	padding: 15px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;}
+
+
+.btn{
+    height: 50px;
+    width: 50px;
+    background-color: #ffe3db;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+    cursor: pointer;
+}
+
+
+i{
+    color:#ffffff;
+}
